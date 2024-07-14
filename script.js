@@ -33,7 +33,7 @@ const camera = new THREE.PerspectiveCamera(
 sun.position.y = 70;
 sun.position.x = -140;
 
-camera.position.z = 100;
+camera.position.z = 200;
 
 renderer.setSize(aspectRatio.width, aspectRatio.height);
 
